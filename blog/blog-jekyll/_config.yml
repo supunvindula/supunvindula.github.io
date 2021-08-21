@@ -23,13 +23,16 @@ email: e16377@eng.pdn.ac.lk
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Engineering Undergraduate at the University of Peradeniya
 
-domain: supunvindula.me
+# domain: supunvindula.me
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://supunvindula.me" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: supunvindula
 github_username:  supunvindula
 linkedin_username: supun-vindula
 instagram_username: supunvindula
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 # theme: minima
